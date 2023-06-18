@@ -5,4 +5,4 @@ The final project for my course at Python School, titled "Python for Non-Program
 
 For the completion of this project I used the Pillow library 
 
-This software works by scanning through a digital gallery, identifying images with matching properties. In essence, the program searches for identical visual data, rather than simply checking for duplicate filenames. Once a match is detected, the program proceeds to delete the duplicated images, effectively optimizing gallery space and organization.
+This software works by scanning through the folders of the gallery (seagulls and images), identifying images with matching properties. By searching for identical visual data, rather than simply checking for duplicate filenames. Once a match is detected, the program suggests the user the removal of duplicated images, effectively optimizing gallery space and organization.
